@@ -23,4 +23,7 @@ theme:                      "hemingway2"
 taxonomies:
   - category:               "categories"
   - tag:                    "tags"
+
+publishdir:
+        "docs"
 ---
