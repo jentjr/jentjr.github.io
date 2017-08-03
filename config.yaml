@@ -1,0 +1,26 @@
+---
+baseURL:                    "http://jentjr.github.io"
+title:                      "jrj"
+
+params:
+  Subtitle:                 "Environmental Statistics"
+  AuthorName:               "Justin Jent"
+  GitHubUser:               "jentjr"
+  
+# Missing translations will default to this content language
+defaultContentLanguage:     "en"
+
+permalinks:
+  post: /:year/:month/:title
+
+# color-codes for highlighting derived from this style
+pygmentsStyle:              "monokai"
+
+# theme to use (located by default in /themes/THEMENAME/)
+themesDir:                  "themes"
+theme:                      "hemingway2"
+
+taxonomies:
+  - category:               "categories"
+  - tag:                    "tags"
+---
