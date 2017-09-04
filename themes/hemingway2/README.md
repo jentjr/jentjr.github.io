@@ -2,8 +2,6 @@
 
 Hemingway2 is a really minimal blog theme for hugo.
 
-![](https://github.com/tanksuzuki/hemingway/blob/master/images/tn.png)
-
 ## Getting Started
 
 Clone this repository to your hugo theme directory.

@@ -1,0 +1,29 @@
+baseurl = "http://jentjr.github.io"
+languagecode = "en-us"
+title = "jrj"
+author = "Justin R. Jent"
+theme = "hemingway2"
+canonifyurls = true
+publishDir = "docs"
+
+[taxonomies]
+tags = "tags"
+category = "categories"
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["R", "python"]
+
+[[params.social]]
+url = "https://github.com/jentjr"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/jentjr"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"

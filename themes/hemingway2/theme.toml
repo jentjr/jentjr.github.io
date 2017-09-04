@@ -3,9 +3,9 @@
 
 name = "Hemingway2"
 license = "MIT"
-licenselink = "https://github.com/beli3ver/hemingway2/blob/master/LICENSE.md"
+licenselink = "https://gitlab.com/beli3ver/hemingway2/blob/master/LICENSE.md"
 description = "Really minimal blog theme for hugo"
-homepage = "https://github.com/beli3ver/hemingway2"
+homepage = "https://gitlab.com/beli3ver/hemingway2"
 tags = ["blog", "font awesome", "highlight.js"]
 features = ["html5", "css3", "tags"]
 min_version = 0.16
