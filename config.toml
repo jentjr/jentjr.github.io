@@ -2,7 +2,7 @@ baseurl = "http://jentjr.github.io"
 languagecode = "en-us"
 title = "jrj"
 author = "Justin R. Jent"
-theme = "hemingway2"
+theme = "hemingway"
 canonifyurls = true
 publishDir = "docs"
 
