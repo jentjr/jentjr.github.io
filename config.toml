@@ -1,29 +1,17 @@
-baseurl = "http://jentjr.github.io"
-languagecode = "en-us"
-title = "jrj"
-author = "Justin R. Jent"
-theme = "hemingway"
-canonifyurls = true
-publishDir = "docs"
-
-[taxonomies]
-tags = "tags"
-category = "categories"
+baseurl = "https://jentjr.github.io"
+languageCode = "en-us"
+Title = "jrj"
+# Copyright notice. This is displayer in the footer.
+copyright = "&copy; Copyright notice"
 
 [params]
-
-[params.highlight]
-style = "github"
-languages = ["R", "python"]
-
-[[params.social]]
-url = "https://github.com/jentjr"
-fa_icon = "fa-github"
-
-[[params.social]]
-url = "https://twitter.com/jentjr"
-fa_icon = "fa-twitter"
-
-[[params.social]]
-url = "/index.xml"
-fa_icon = "fa-rss"
+  paginate = 10
+  # Social accounts. Link to these accounts are displayed in the header and
+  # footer
+  twitter = "jentjr"
+  github = "jentjr"
+  # Disqus shortname
+  disqus = ""
+  author = "Justin R. Jent"
+  # Short subtitle/tagline. This is displayed in the header.
+  subtitle = "Environmental Statistics"
