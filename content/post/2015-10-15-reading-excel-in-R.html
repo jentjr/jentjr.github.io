@@ -1,0 +1,36 @@
+---
+title: "Reading Excel Files in R"
+date: '2015-10-15T00:00:00Z'
+url: /2015/10/15/reading-excel-in-R/
+---
+
+
+
+<p><a href="http://had.co.nz">Hadley Wickham</a> recently started an R package for reading excel files called <a href="https://github.com/hadley/readxl">readxl</a>. The package has no external dependencies, which makes it easy to install. If you have worked with other packages for reading excel files like <a href="https://github.com/miraisolutions/xlconnect">XLConnect</a>, which uses java, it might not be straightforward to get the package working. For example, you might have to reconfigure java on your computer by running command below in your terminal.</p>
+<pre class="bash"><code>sudo R CMD javareconf</code></pre>
+<p>The syntax in readxl is much cleaner and straightforward than some of the other packages for reading excel files, which makes it much nicer to use. However, while there are sure to be many improvements to come (at the time of this writing readxl is at version 0.1.0.9000), there are some features that are missing. One of the things I wanted to do was read an excel file from a url the way you can in the <a href="https://cran.r-project.org/web/packages/gdata/index.html">gdata</a> package. So, I forked the readxl repo, and modified the <code>read_excel</code> function in the <code>read_excel.R</code> file as follows:</p>
+<pre class="r"><code>read_excel &lt;- function(path, sheet = 1, col_names = TRUE, col_types = NULL,
+                       na = &quot;&quot;, skip = 0) {
+            
+   if (substring(path, 1, 7) == &quot;http://&quot; ||
+       substring(path, 1, 6) == &quot;ftp://&quot;) {
+     ext &lt;- tolower(tools::file_ext(path))
+     tmp &lt;- tempfile(fileext = paste0(&quot;.&quot;, ext))
+     download.file(path, destfile = tmp, mode = &quot;wb&quot;)
+              
+     switch(excel_format(tmp),
+            xls =  read_xls(tmp, sheet, col_names, col_types, na, skip),
+            xlsx = read_xlsx(tmp, sheet, col_names, col_types, na, skip)
+     )
+   }
+   else {
+     path &lt;- check_file(path)
+     ext &lt;- tolower(tools::file_ext(path))
+              
+     switch(excel_format(path),
+        xls =  read_xls(path, sheet, col_names, col_types, na, skip),
+        xlsx = read_xlsx(path, sheet, col_names, col_types, na, skip)
+     )
+}</code></pre>
+<p>I submitted a <a href="https://github.com/hadley/readxl/pull/77">pull request</a>, which Hadley Wickham said he would take a look at next time he is working on the readxl package.</p>
+<p>In the next post I will use the <code>read_excel</code> function to download groundwater quality data from the state of Indiana.</p>
