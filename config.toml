@@ -24,7 +24,7 @@ pygmentsCodefences = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Environmental Statistics"
+description = "Civil/Environmental Engineer"
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -85,3 +85,5 @@ hrefTargetBlank = true
 lang = "en"
 languageName = "English"
 weight = 1
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
