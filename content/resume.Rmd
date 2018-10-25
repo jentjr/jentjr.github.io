@@ -1,0 +1,76 @@
+---
+output: html_document
+date: '2018-10-24'
+---
+
+### Experience
+
+
+
+##### *American Electric Power*, Columbus, OH
+
+###### Environmental Engineer Senior, 2017 - present
+
+###### Environmental Engineer, 2013 - 2017
+* Design of geochemical studies, including isotopes, at landfill and surface impoundment sites to investigate sources of contamination  
+* Hydrolgeological investigation design in both unconsolidated and consolidated geological settings  
+* Responsible for the statistical evaluation of groundwater quality data  
+* Development of database and statistical analysis software for water quality data  
+* Compliance support for residual solid waste landfill permits, mine reclamation, and surface impoundment closure designs following [Federal Coal Combustion Residual Regulation](https://www.epa.gov/coalash) and State regulations in Ohio, Indiana and West Virginia  
+* Provide landfill operator training for supervisors and other on-site pesonnel at residual solid waste landfill facilites  
+* Environmenal due diligence for decommisioning and liability transfers for several power plants  
+ 
+
+##### *U.S. Environmental Protection Agency*, Cincinnati, OH 
+###### Mathematical Modeler, 2010 - 2013  
+
+* Characterized microbial communities in fecally polluted waters and evaluated predictive models to detect primary sources of pollution  
+* Performed spatial-temporal analysis of fecal indicator bacteria from non-point source pollution at the watershed scale  
+* Designed sampling strategies based on different predictive models  
+
+##### *Indiana & Michigan Power Company*, Lawrenceburg, IN
+###### Engineering Intern, Apr 2010 - Sep 2010
+
+* Supervised daily operations of type I landfill, which included filing weekly environmental reports and daily safety briefing and inspections  
+* Implemented alert system for coal pile tractor operators  
+* Analyzed barge shipments and material weights for the design of a new coal conveyor  
+* Ensured that power conditions were maintained by performing reactive capability tests  
+* Inspected electrostatic precipitators to ensure proper functioning and to remove grounds  
+
+##### *Helmholtz Zentrum, Institute for Groundwater Ecology*, Munich, Germany
+###### Researcher, Jun 2008 - Aug 2008
+
+* Observed hydraulic conductivity for different porous media and analyzed tracer experiments in columns  
+* Developed an online measurement method to interpret the fluorescent signal in column experiments  
+* Developed an experimental set-up for a large 3-D tracer experiment  
+
+##### *H.C. Nutting Company*, Cincinnati, OH
+###### Field/Lab Technician, Jun 2005 - Aug 2006
+
+* Supervised the installation of a geomembrane liner in a landfill  
+* Obtained concrete core samples and performed air content, slump tests and compressive and flexural strength  
+* Performed in-place density tests by nuclear and sand cone methods, Proctor tests, sieve analysis, Atterberg limit, permeability, and various other tests on soils  
+
+### Education
+
+* *University of Cincinnati*,  Ph.D. Environmental Engineeering, 2010 - dnf  
+* *Rose-Hulman Institute of Technology*, B.Sc. Civil Engineering with minor in Mathematics, 2004 - 2009  
+* *Universit&auml;t Stuttgart*, Study Abroad, 2007  
+
+### Certificates
+* Registerd Professional Engineer in [IN](https://mylicense.in.gov/EVerification/Details.aspx?result=89eb19a6-1e57-40ea-b462-bc433195163c)  
+* Technical translator in German language
+
+### Tools
+
+* R, Python, SQL (SQLite, PostgreSQL + Postgis)
+* Fortran, C
+* Git, Appveyor, Travis
+
+### Publications
+
+Ashton, A., Crocceti, C., **Jent, J.R.**, and Massey-Norton, J.T.  (2016). "U.S. EPA's Final CCR Rule. Using Advanced Techniques to Assess Groundwater Quality Signatures Associated with Coal Combustion Residuals." *Proceedings of 2016 COAL-GEN Conference*
+
+**Jent, J.R**., Ryu, H.,  Toledo-Hernandez, C., Santo Domingo, J.W., and Yeghiazarian, L. (2013). "Determining Hot Spots of Fecal Contamination in a Tropical Watershed by Combining Land-Use Information and Meteorological Data with Source-Specific Assays." *Environ. Sci. Technol.* http://dx.doi.org/10.1021/es304066z
+
+**Jent, J.R.**, Rhea L., Shuster, W., Rao, M.B., and Yeghiazarian, L. (In Preparation). "Boosted Regression Trees for Predicting *E. coli*."

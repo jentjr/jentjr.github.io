@@ -1,89 +1,10 @@
-baseURL = "http://jentjr.com"
+theme = "basics"
+baseURL = "http://jentjr.com/"
+languageCode = "en-us"
 title = "jrj"
-# for smart copyright line, leave this blank and check [params.copyright]
-copyright = ""
 
-theme = "minimo"
-
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
-
-disqusShortname = "jentjr-com"
-googleAnalytics = ""
-
-Paginate = 5
-preserveTaxonomyNames = true
-
-enableRobotsTXT = true # generate robots.txt
-
-# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
-pygmentsCodefences = true
-
-# Missing translations will default to this content language
-defaultContentLanguage = "en"
-
-[params.info]
-description = "Civil/Environmental Engineer"
-title404 = "Nothing's here!"
-
-[params.assets]
-favicon = "favicon.ico"
-customCSS = ["css/custom.css"]
-customJS = ["js/custom.js"]
-gopher = "" # used in 404 template ( Generator: https://gopherize.me )
-
-[params.copyright]
-prefix = ""
-holder = "Justin R. Jent"
-startYear = "2017"
-suffix = ""
-
-[params.settings]
-# date & time format: https://golang.org/pkg/time/
-dateFormat = "2006, Jan 02"
-listDateFormat = "2006, Jan 02"
-hideEntryNavigation = false
-hideSocialMenu = false
-showReadingTime = true
-
-[params.opengraph.facebook]
-admins = [] # array of Facebook IDs
-appID = ""
-pageID = ""
-
-[params.opengraph.twitter]
-page = "" # Twitter page username
-
-[params.seo]
-# Title Separator: - – — · • * ⋆ | ~ « » < >
-titleSeparator = "•"
-
-[params.social]
-email = "jentjr@gmail.com"
-github = "jentjr"
-linkedin = ""
-twitter = "jentjr"
-
-[params.social.config]
-platforms = ["github","twitter","email","linkedin"]
-
-[taxonomies]
-author = "Justin R. Jent"
-category = "categories"
-tag = "tags"
-
-[permalinks]
-page = "/:slug/"
-
-[blackfriday]
-hrefTargetBlank = true
-
-[languages]
-# edit this block for your own language
-[languages.en]
-lang = "en"
-languageName = "English"
-weight = 1
+[params]
+    author = 'Justin R. Jent'
+    github = "jentjr"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
