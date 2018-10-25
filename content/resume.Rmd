@@ -16,7 +16,7 @@ date: '2018-10-24'
 * Hydrolgeological investigation design in both unconsolidated and consolidated geological settings  
 * Responsible for the statistical evaluation of groundwater quality data  
 * Development of database and statistical analysis software for water quality data  
-* Compliance support for residual solid waste landfill permits, mine reclamation, and surface impoundment closure designs following [Federal Coal Combustion Residual Regulation](https://www.epa.gov/coalash) and State regulations in Ohio, Indiana and West Virginia  
+* Compliance support for residual solid waste landfill permits, mine reclamation, and surface impoundment closure designs following Federal [Coal Combustion Residual Regulation](https://www.epa.gov/coalash) and State regulations in Ohio, Indiana and West Virginia  
 * Provide landfill operator training for supervisors and other on-site pesonnel at residual solid waste landfill facilites  
 * Environmenal due diligence for decommisioning and liability transfers for several power plants  
  
@@ -58,7 +58,7 @@ date: '2018-10-24'
 * *Universit&auml;t Stuttgart*, Study Abroad, 2007  
 
 ### Certificates
-* Registerd Professional Engineer in [IN](https://mylicense.in.gov/EVerification/Details.aspx?result=89eb19a6-1e57-40ea-b462-bc433195163c)  
+* Registerd Professional Engineer in Indiana  
 * Technical translator in German language
 
 ### Tools
