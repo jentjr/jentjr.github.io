@@ -1,6 +1,6 @@
 ---
 output: html_document
-date: '2018-10-24'
+date: '2022-02-10'
 ---
 
 ### Experience
@@ -15,12 +15,12 @@ date: '2018-10-24'
 
 ##### Environmental Engineer, 2013 - 2017
 * Design of geochemical studies, including isotopes, at landfill and surface impoundment sites to investigate sources of contamination  
-* Hydrolgeological investigation design in both unconsolidated and consolidated geological settings  
+* Hydrogeological investigation design in both unconsolidated and consolidated geological settings  
 * Responsible for the statistical evaluation of groundwater quality data  
 * Development of database and statistical analysis software for water quality data  
-* Compliance support for residual solid waste landfills, mine reclamation, and surface impoundment closures following the Federal [Coal Combustion Residual](https://www.epa.gov/coalash) regulation and State regulations in Ohio, Indiana and West Virginia  
-* Provide landfill operator training for supervisors and other on-site pesonnel at residual solid waste landfill facilites  
-* Environmenal due diligence for decommisioning and liability transfers for several power plants  
+* Compliance support for residual solid waste landfills, mine reclamation, and surface impoundment closures following the Federal [Coal Combustion Residual](https://www.epa.gov/coalash) regulation and State regulations in Ohio, Indiana, Virginia, and West Virginia  
+* Provide landfill operator training for supervisors and other on-site personnel at residual solid waste landfill facilities  
+* Environmental due diligence for decommissioning and liability transfers for several power plants  
  
 
 #### *U.S. Environmental Protection Agency*, Cincinnati, OH 
@@ -70,6 +70,8 @@ date: '2018-10-24'
 * Git, Appveyor, Travis
 
 ### Publications
+
+Chin-Min Cheng, Tarunjit Butalia, Robert Baker, **Justin Jent**, and William Wolfe. (2021). "Using Coal Combustion Residuals for Abandoned Mine Reclamation." *2021 Conference of the International Mine Water Association*
 
 Ashton, A., Crocceti, C., **Jent, J.R.**, and Massey-Norton, J.T.  (2016). "U.S. EPA's Final CCR Rule. Using Advanced Techniques to Assess Groundwater Quality Signatures Associated with Coal Combustion Residuals." *Proceedings of 2016 COAL-GEN Conference*
 
