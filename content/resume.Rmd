@@ -1,6 +1,6 @@
 ---
 output: html_document
-date: '2022-02-10'
+date: '2023-03-21'
 ---
 
 ### Experience
@@ -9,7 +9,9 @@ date: '2022-02-10'
 
 #### *American Electric Power*, Columbus, OH
 
-##### Environmental Engineer Principal, 2020 - present
+##### Environmental Specialist Consultant, 2022 - Present
+
+##### Environmental Engineer Principal, 2020 - 2022
 
 ##### Environmental Engineer Senior, 2017 - 2020
 
@@ -60,7 +62,7 @@ date: '2022-02-10'
 * *Universit&auml;t Stuttgart*, Study Abroad, 2007  
 
 ### Certificates
-* Registerd Professional Engineer in Ohio, Indiana, and West Virginia  
+* Registered Professional Engineer in Ohio, Indiana, and West Virginia  
 * Technical translator in German language
 
 ### Tools
@@ -78,3 +80,7 @@ Ashton, A., Crocceti, C., **Jent, J.R.**, and Massey-Norton, J.T.  (2016). "U.S.
 **Jent, J.R**., Ryu, H.,  Toledo-Hernandez, C., Santo Domingo, J.W., and Yeghiazarian, L. (2013). "Determining Hot Spots of Fecal Contamination in a Tropical Watershed by Combining Land-Use Information and Meteorological Data with Source-Specific Assays." *Environ. Sci. Technol.* http://dx.doi.org/10.1021/es304066z
 
 **Jent, J.R.**, Rhea L., Shuster, W., Rao, M.B., and Yeghiazarian, L. (In Preparation). "Boosted Regression Trees for Predicting *E. coli*."
+
+### Presentations
+
+*Coal Combustion Residual Management in Ohio*. Electrical Power Research Institute Fall Advisory Meeting. September, 2019.
