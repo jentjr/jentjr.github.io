@@ -1,6 +1,6 @@
 ---
 output: html_document
-date: '2023-03-21'
+date: '2024-08-06'
 ---
 
 ### Experience
@@ -9,7 +9,9 @@ date: '2023-03-21'
 
 #### *American Electric Power*, Columbus, OH
 
-##### Environmental Specialist Consultant, 2022 - Present
+##### Environmental Supervisor, 2024 - Present
+
+##### Environmental Specialist Consultant, 2022 - 2024
 
 ##### Environmental Engineer Principal, 2020 - 2022
 
@@ -62,7 +64,7 @@ date: '2023-03-21'
 * *Universit&auml;t Stuttgart*, Study Abroad, 2007  
 
 ### Certificates
-* Registered Professional Engineer in Ohio, Indiana, and West Virginia  
+* Registered Professional Engineer in Ohio, Indiana, West Virginia, and Arkansas  
 * Technical translator in German language
 
 ### Tools
